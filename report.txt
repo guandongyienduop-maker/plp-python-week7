@@ -1,0 +1,15 @@
+LEARNER REPORT
+--------------------
+Total learners: 5
+Passed: 3
+Failed: 2
+Average score: 63.2
+
+LEARNERS WHO PASSED:
+Amina | ASAL | 82
+Fatuma | ASAL | 90
+Kevin | TCDM | 61
+
+LEARNERS WHO FAILED:
+Brian | NENAP | 45
+Halima | NENAP | 38
